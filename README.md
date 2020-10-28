@@ -172,5 +172,6 @@ Calculate the false match rate and false non-match rate of cosine distance to pl
 
 ## Evaluations
 ![distance measures](/evaluations/distance.png)
-CRR against Dimensions: ![Alt Text](/evaluations/rcc.png)
+
+![CRR against Dimensions:](/evaluations/rcc.png)
 
