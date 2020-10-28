@@ -21,10 +21,10 @@ For assignment1, input image is stored at ```<image_analysis dir>/assignment1/Ho
 
 ## IrisRecognition.py: 
 * This is the main function.
-*First, read in the images from the relative path and split them into a training group and a testing group.
-*For each group, loop through each image. First localize the iris, then normalize and enhance the image. For each enhanced image, extract the features and store the features in the list. Also, store the class of each image in the list.
-*Then, do iris matching in different dimensions for three distances to produce Table 3 and Figure 10.
-*Calculate false march rate and false non-match rate based on different threshold and plot Table 4 and the ROC.
+* First, read in the images from the relative path and split them into a training group and a testing group.
+* For each group, loop through each image. First localize the iris, then normalize and enhance the image. For each enhanced image, extract the features and store the features in the list. Also, store the class of each image in the list.
+* Then, do iris matching in different dimensions for three distances to produce Table 3 and Figure 10.
+* Calculate false march rate and false non-match rate based on different threshold and plot Table 4 and the ROC.
 
 
 ## IrisLocalization.py: 
