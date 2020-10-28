@@ -171,7 +171,18 @@ Calculate the false match rate and false non-match rate of cosine distance to pl
   * FNMR: a list of false non-match rate for each threshold
 
 ## Evaluations
+Distance measures:
 ![distance measures](/evaluations/distance.png)
 
-![CRR against Dimensions:](/evaluations/rcc.png)
+CRR against Dimensions:
+![CRR against Dimensions:](/evaluations/crr.png)
+
+Metrics:
+![Metrics:](/evaluations/metrics.png)
+
+ROC:
+![ROC:](/evaluations/roc.png)
+
+## Peer Evaluation
+![Peer Evaluation:](/evaluations/peer.png)
 
